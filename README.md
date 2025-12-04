@@ -9,9 +9,7 @@
   ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
   ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
 
-  <p align="center">
-    <img src="assets/preview.png" alt="App Screenshot" width="600"/>
-  </p>
+# Screenshoot
 
   <img width="535" height="380" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/d34636b5-61ba-4808-bd43-2c7233467eb6" />
 
