@@ -59,7 +59,6 @@ Run the test directly in your terminal (perfect for remote servers):
 python speed_test.py
 
 📂 Project Structure
-Plaintext
 
 NetworkSpeedTester/
 ├── assets/              # Screenshots and images
