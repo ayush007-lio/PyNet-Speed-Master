@@ -57,3 +57,13 @@ python gui_speed_test.py
 Run the test directly in your terminal (perfect for remote servers):
 
 python speed_test.py
+
+📂 Project Structure
+Plaintext
+
+NetworkSpeedTester/
+├── assets/              # Screenshots and images
+├── gui_speed_test.py    # Main GUI Application source code
+├── speed_test.py        # CLI Application source code
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
