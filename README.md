@@ -13,7 +13,8 @@
     <img src="assets/preview.png" alt="App Screenshot" width="600"/>
   </p>
 
-  [Report Bug](https://github.com/issues) • [Request Feature](https://github.com/issues)
+  <img width="535" height="380" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/d34636b5-61ba-4808-bd43-2c7233467eb6" />
+
 </div>
 
 ---
