@@ -52,3 +52,8 @@
 Launch the graphical interface for a visual experience:
 ```bash
 python gui_speed_test.py
+
+📟 CLI Version (Terminal)
+Run the test directly in your terminal (perfect for remote servers):
+
+python speed_test.py
